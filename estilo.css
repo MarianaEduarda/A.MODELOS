@@ -1,13 +1,31 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
 .fundo{
-    width: 100%;
+   width: 100%;
 background: linear-gradient(180deg, #A83234 0%, rgba(168, 50, 52, 0) 100%);
 position: absolute;
-  height: 900px;
-  overflow: hidden;
- }
+ height: 900px;
+ overflow: hidden;
+}
 
- .titulo{
-    text-align: center;
-    font-size: 70px;
-    font-family: Georgia;
-     }
+.titulo{
+   text-align: center;
+   font-size: 70px;
+   font-family: Georgia;
+   position: absolute;
+   text-align: center;
+   top: 70px;
+   left: 691px;
+    }
+
+    .textoprincipal{
+     position: absolute;
+     top: 400px;
+     position: absolute;
+     top: 205px;
+     left: 239px;
+    }
+  
