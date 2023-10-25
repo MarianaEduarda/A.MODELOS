@@ -1,31 +1,66 @@
 *{
-  padding: 0;
-  margin: 0;
-}
-
-.fundo{
-   width: 100%;
-background: linear-gradient(180deg, #A83234 0%, rgba(168, 50, 52, 0) 100%);
-position: absolute;
- height: 900px;
- overflow: hidden;
-}
-
-.titulo{
-   text-align: center;
-   font-size: 70px;
-   font-family: Georgia;
-   position: absolute;
-   text-align: center;
-   top: 70px;
-   left: 691px;
+   padding: 0;
+   margin: 0;
+ }
+ 
+ .fundo{
+    width: 100%;
+    background: linear-gradient(180deg, #FF769F 0%, rgba(244, 170, 192, 0.00) 60.5%, rgba(255, 106, 151, 0.13) 99.1%, rgba(111, 58, 74, 0.00) 100%);
+ position: absolute;
+  height: 900px;
+  overflow: hidden;
+ }
+ 
+ .titulo{
+    text-align: center;
+    font-size: 100px;
+    font-family: Georgia;
+    position: absolute;
+    text-align: center;
+    top: 49px;
+ left: 579px;
+    color:F61010 ;
+     }
+ 
+     .textoprincipal{
+      position: absolute;
+      top: 400px;
+      position: absolute;
+      top: 215px;
+      left: 25px;
+      font-size: 23px;
+ text-align: center;
+     }
+   
+    .logo{
+       width: 248px;
+       position: absolute;
+       top: -132px;
+       left: 90px;
     }
-
-    .textoprincipal{
-     position: absolute;
-     top: 400px;
-     position: absolute;
-     top: 205px;
-     left: 239px;
+ 
+    .predio{
+       width: 309px;
+ height: 280px;
+ flex-shrink: 0;
+ position: absolute;
+ top: 381px;
+ left: 165px;
     }
-  
+ 
+    .portifolio{
+       width: 321px;
+ flex-shrink: 0;
+ position: absolute;
+ top: 213px;
+ left: 757px;
+    }
+ 
+ .contato{
+    width: 305px;
+ height: 280px;
+ flex-shrink: 0;
+ position: absolute;
+ top: 384px;
+ left: 1374px;
+ }
