@@ -1,0 +1,73 @@
+*{
+    padding: 0;
+    margin: 0;
+  }
+  
+  .fundo{
+     width: 100%;
+     background: linear-gradient(180deg, #FF769F 0%, rgba(244, 170, 192, 0.00) 60.5%, rgba(255, 106, 151, 0.13) 99.1%, rgba(111, 58, 74, 0.00) 100%);
+  position: absolute;
+   height: 900px;
+   overflow: hidden;
+  }
+
+  .titulo{
+    text-align: center;
+    font-size: 100px;
+    font-family: Georgia;
+    position: absolute;
+    text-align: center;
+    top: 49px;
+    left: 721px;
+    color:F61010 ;
+     }
+
+     .local{
+        position: absolute;
+        top: 100px;
+        left: 1636px;
+        font-size: 20px;
+     }
+     
+     .localizaçao{
+        width: 88px;
+        position: absolute;
+        top: 30px;
+        left: 1540px;
+     
+      }
+
+      .logo{
+        width: 248px;
+        position: absolute;
+        top: -132px;
+        left: 90px;
+     }
+
+    .imagem1{
+        width: 353px;
+        top: 105px;
+left: 186px;
+position: relative;
+    }
+
+    .imagem2{
+        width: 353px;
+        top: 354px;
+left: 296px;
+position: relative;
+    }
+
+    .imagem3{
+        width: 353px;
+        top: 105px;
+left: 408px;
+position: relative;
+    }
+
+    .imagem4{
+        width: 353px;
+        top: 372px;
+left: 296px;
+position: relative;
+    }
