@@ -45,29 +45,73 @@
      }
 
     .imagem1{
-        width: 353px;
+        width: 423px;
         top: 105px;
-left: 186px;
-position: relative;
+        left: 47px;
+        position: relative;
     }
 
     .imagem2{
-        width: 353px;
-        top: 354px;
-left: 296px;
+        width: 423px;
+top: 281px;
+left: 86px;
 position: relative;
     }
 
     .imagem3{
-        width: 353px;
+        width: 423px;
         top: 105px;
-left: 408px;
-position: relative;
+        left: 164px;
+        position: relative;
     }
 
     .imagem4{
-        width: 353px;
-        top: 372px;
-left: 296px;
-position: relative;
+        width: 423px;
+        top: 281px;
+        left: 168px;
+        position: relative;
+    }
+
+    .colecao1{
+        position: absolute;
+left: 130px;
+font-family: georgia;
+font-size: 27px;
+color: #b91a36;
+    }
+
+    .colecao2{
+        position: absolute;
+        left: 629px;
+        font-family: georgia;
+        font-size: 27px;
+        color: #b91a36;
+        top: 432px;
+    }
+
+    .colecao3{
+        position: absolute;
+        left: 1116px;
+        font-family: georgia;
+        font-size: 27px;
+        color: #b91a36;
+        top: 749px;
+    }
+
+    .colecao4{
+        position: absolute;
+        left: 1559px;
+        font-family: georgia;
+        font-size: 27px;
+        color: #b91a36;
+        top: 432px;
+    }
+
+    .frase{
+        position: absolute;
+        left: 438px;
+        font-family: georgia;
+        font-size: 19px;
+        color: white;
+        top: 250px;
     }
