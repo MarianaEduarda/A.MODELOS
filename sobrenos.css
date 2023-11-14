@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+  }
+  
+  .fundo{
+     width: 100%;
+     background: linear-gradient(180deg, #FF769F 0%, rgba(244, 170, 192, 0.00) 60.5%, rgba(255, 106, 151, 0.13) 99.1%, rgba(111, 58, 74, 0.00) 100%);
+  position: absolute;
+   height: 900px;
+   overflow: hidden;
+  }
+
+  .titulo{
+    text-align: center;
+    font-size: 100px;
+    font-family: Georgia;
+    position: absolute;
+    text-align: center;
+    top: 49px;
+    left: 721px;
+    color:F61010 ;
+     }
+
+     .local{
+        position: absolute;
+        top: 100px;
+        left: 1636px;
+        font-size: 20px;
+     }
+     
+     .localizaçao{
+        width: 88px;
+        position: absolute;
+        top: 30px;
+        left: 1540px;
+     
+      }
+
+      .logo{
+        width: 248px;
+        position: absolute;
+        top: -132px;
+        left: 90px;
+     }
+
+     .hist1{
+        width: 649px;
+height: 348px;
+flex-shrink: 0;
+color: #000;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+top: 259px;
+position: absolute;
+left: 153px;
+     }
